@@ -1,0 +1,19 @@
+{
+  "name": "url-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev" : "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freduz/tutanota-url-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freduz/tutanota-url-checker/issues"
+  },
+  "homepage": "https://github.com/freduz/tutanota-url-checker#readme"
+}
